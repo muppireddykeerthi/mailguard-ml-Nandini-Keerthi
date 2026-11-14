@@ -1,0 +1,19 @@
+From: Bank Security <alert@secure-bank-verify.info>
+To: user@example.com
+Subject: URGENT: Your account has been suspended
+Date: Tue, 04 Nov 2025 14:20:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual activity on your online banking account. Your
+account will be PERMANENTLY CLOSED unless you verify your identity
+immediately.
+
+Confirm your password and card PIN here:
+http://secure-bank-verify.info/login
+
+Failure to respond within 12 hours will result in loss of access.
+
+Security Department
